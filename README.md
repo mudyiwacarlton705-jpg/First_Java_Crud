@@ -1,21 +1,13 @@
-# First_Java_Crud
+# First-Java-CRUD
 
-## Student Management System
+Java Student Management System.
 
-This is a simple Java CRUD application for managing student records.
-
-### Features
+## Features
 - Create student records
-- Read and display student records
-- Update student details
+- Read student records
+- Update student records
 - Delete student records
 
-### Technologies
-- Java
-- Spring Boot
-- Vaadin
-- Maven
-- Git and GitHub
-
-### Purpose
-This project is for practising Java development, CRUD operations, version control and GitHub collaboration.
+## Run
+javac -d out src/Main.java
+java -cp out Main
